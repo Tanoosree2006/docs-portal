@@ -171,4 +171,4 @@ content/docs/v1/introduction.md
 - Project works correctly across all supported locales
 - Designed to be scalable for future documentation versions
 
----
+
