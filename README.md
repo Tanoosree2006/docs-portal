@@ -172,8 +172,3 @@ content/docs/v1/introduction.md
 - Designed to be scalable for future documentation versions
 
 ---
-
-👤 Author
-
-Docs Portal Project  
-Built as part of a technical assignment.
